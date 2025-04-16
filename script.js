@@ -1,5 +1,5 @@
 const compliments = [
-    "You're doing *okay*, I guess.",
+    "You're killing it!",
     "You have great ideas!",
     "You're doing great!",
     "You light up the room!",
